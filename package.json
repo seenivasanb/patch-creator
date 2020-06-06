@@ -1,0 +1,15 @@
+{
+  "name": "patch-creator",
+  "version": "1.0.0",
+  "description": "Creating patch from lower environment to merge into the higher environment",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Seenivasan Balakrishnan",
+  "license": "ISC",
+  "dependencies": {
+    "diff": "^4.0.2",
+    "npm-git-install": "^0.3.0"
+  }
+}
